@@ -225,3 +225,4 @@ teacher_cap=[
                 6;
                 5
 ]
+#print
