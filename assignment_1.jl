@@ -33,7 +33,6 @@ ass1 = Model(solver=GurobiSolver())
 @constraint(ass1,maxCoursesPerPupil[p=1:P],sum(x[d,h,c,p] for d=1:D,h=1:H,c=1:C)<=12)
 #Lower bound for each class
 <<<<<<< HEAD
-@constraint(ass1,lowerCourseLimit[d=1:D,h=1:H,c=1:C],sum(x[d,h,c,p] for p=1:P)>= course_bounds[c,1])
 =======
 @constraint(ass1,lowerCourseLimit[d=1:D,h=1:H,c=1:C],sum(x[d,h,c,p] for p=1:P)>= course_bounds[c,1]*y[d,h,c])
 >>>>>>> 7574ba7f9137eab92a71e5e1b712fb7653fc496b
