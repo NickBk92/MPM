@@ -166,7 +166,7 @@ teacher_courses[26,66]=1
 teacher_courses[27,43]=1
 teacher_courses[27,66]=1
 
-<<<<<<< HEAD
+
 teacher_availability = zeros(27,4)
 teacher_availability[1,2] = 1
 teacher_availability[2,2] = 1
@@ -235,7 +235,7 @@ teacher_capacity[24] = 10
 teacher_capacity[25] = 5
 teacher_capacity[26] = 6
 teacher_capacity[27] = 5
-=======
+
 teacher_days=[
               0 1 0 0;                  #1
               0 1 0 0;                  #2
@@ -297,4 +297,3 @@ teacher_cap=[
 ]
 #print
 T=66
->>>>>>> 7574ba7f9137eab92a71e5e1b712fb7653fc496b
