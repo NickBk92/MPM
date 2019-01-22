@@ -17,7 +17,7 @@ grade[1]=61;
    pupil_courses[1,58]=1
    pupil_courses[1,63]=1
    pupil_courses[1,66]=1
- 
+
 grade[2]=61;
   pupil_courses[2,1]=1
    pupil_courses[2,2]=1
@@ -35,7 +35,7 @@ grade[2]=61;
    pupil_courses[2,58]=1
    pupil_courses[2,62]=1
    pupil_courses[2,66]=1
- 
+
 grade[3]=61;
   pupil_courses[3,1]=1
    pupil_courses[3,2]=1
@@ -53,7 +53,7 @@ grade[3]=61;
    pupil_courses[3,58]=1
    pupil_courses[3,62]=1
    pupil_courses[3,66]=1
- 
+
 grade[4]=61;
   pupil_courses[4,5]=1
    pupil_courses[4,7]=1
@@ -73,7 +73,7 @@ grade[4]=61;
    pupil_courses[4,58]=1
    pupil_courses[4,63]=1
    pupil_courses[4,66]=1
- 
+
 grade[5]=61;
   pupil_courses[5,1]=1
    pupil_courses[5,2]=1
@@ -91,7 +91,7 @@ grade[5]=61;
    pupil_courses[5,51]=1
    pupil_courses[5,57]=1
    pupil_courses[5,66]=1
- 
+
 grade[6]=61;
   pupil_courses[6,1]=1
    pupil_courses[6,7]=1
@@ -109,7 +109,7 @@ grade[6]=61;
    pupil_courses[6,58]=1
    pupil_courses[6,63]=1
    pupil_courses[6,66]=1
- 
+
 grade[7]=61;
   pupil_courses[7,1]=1
    pupil_courses[7,5]=1
@@ -127,7 +127,7 @@ grade[7]=61;
    pupil_courses[7,61]=1
    pupil_courses[7,63]=1
    pupil_courses[7,66]=1
- 
+
 grade[8]=61;
   pupil_courses[8,5]=1
    pupil_courses[8,11]=1
@@ -147,7 +147,7 @@ grade[8]=61;
    pupil_courses[8,58]=1
    pupil_courses[8,63]=1
    pupil_courses[8,66]=1
- 
+
 grade[9]=61;
   pupil_courses[9,5]=1
    pupil_courses[9,11]=1
@@ -167,7 +167,7 @@ grade[9]=61;
    pupil_courses[9,58]=1
    pupil_courses[9,63]=1
    pupil_courses[9,66]=1
- 
+
 grade[10]=61;
   pupil_courses[10,5]=1
    pupil_courses[10,11]=1
@@ -187,7 +187,7 @@ grade[10]=61;
    pupil_courses[10,58]=1
    pupil_courses[10,63]=1
    pupil_courses[10,66]=1
- 
+
 grade[11]=61;
   pupil_courses[11,2]=1
    pupil_courses[11,7]=1
@@ -205,7 +205,7 @@ grade[11]=61;
    pupil_courses[11,47]=1
    pupil_courses[11,51]=1
    pupil_courses[11,66]=1
- 
+
 grade[12]=61;
   pupil_courses[12,1]=1
    pupil_courses[12,2]=1
@@ -223,7 +223,7 @@ grade[12]=61;
    pupil_courses[12,61]=1
    pupil_courses[12,63]=1
    pupil_courses[12,66]=1
- 
+
 grade[13]=61;
   pupil_courses[13,1]=1
    pupil_courses[13,2]=1
@@ -241,7 +241,7 @@ grade[13]=61;
    pupil_courses[13,61]=1
    pupil_courses[13,63]=1
    pupil_courses[13,66]=1
- 
+
 grade[14]=61;
   pupil_courses[14,5]=1
    pupil_courses[14,11]=1
@@ -260,7 +260,7 @@ grade[14]=61;
    pupil_courses[14,58]=1
    pupil_courses[14,63]=1
    pupil_courses[14,66]=1
- 
+
 grade[15]=61;
   pupil_courses[15,1]=1
    pupil_courses[15,7]=1
@@ -278,7 +278,7 @@ grade[15]=61;
    pupil_courses[15,58]=1
    pupil_courses[15,63]=1
    pupil_courses[15,66]=1
- 
+
 grade[16]=61;
   pupil_courses[16,1]=1
    pupil_courses[16,5]=1
@@ -296,7 +296,7 @@ grade[16]=61;
    pupil_courses[16,61]=1
    pupil_courses[16,63]=1
    pupil_courses[16,66]=1
- 
+
 grade[17]=61;
   pupil_courses[17,1]=1
    pupil_courses[17,2]=1
@@ -314,7 +314,7 @@ grade[17]=61;
    pupil_courses[17,58]=1
    pupil_courses[17,63]=1
    pupil_courses[17,66]=1
- 
+
 grade[18]=61;
   pupil_courses[18,1]=1
    pupil_courses[18,5]=1
@@ -334,7 +334,7 @@ grade[18]=61;
    pupil_courses[18,61]=1
    pupil_courses[18,63]=1
    pupil_courses[18,66]=1
- 
+
 grade[19]=61;
   pupil_courses[19,1]=1
    pupil_courses[19,5]=1
@@ -352,7 +352,7 @@ grade[19]=61;
    pupil_courses[19,61]=1
    pupil_courses[19,63]=1
    pupil_courses[19,66]=1
- 
+
 grade[20]=61;
   pupil_courses[20,5]=1
    pupil_courses[20,7]=1
@@ -370,7 +370,7 @@ grade[20]=61;
    pupil_courses[20,61]=1
    pupil_courses[20,63]=1
    pupil_courses[20,66]=1
- 
+
 grade[21]=61;
   pupil_courses[21,1]=1
    pupil_courses[21,5]=1
@@ -389,7 +389,7 @@ grade[21]=61;
    pupil_courses[21,54]=1
    pupil_courses[21,63]=1
    pupil_courses[21,66]=1
- 
+
 grade[22]=61;
   pupil_courses[22,2]=1
    pupil_courses[22,8]=1
@@ -407,7 +407,7 @@ grade[22]=61;
    pupil_courses[22,53]=1
    pupil_courses[22,54]=1
    pupil_courses[22,66]=1
- 
+
 grade[23]=61;
   pupil_courses[23,1]=1
    pupil_courses[23,2]=1
@@ -425,7 +425,7 @@ grade[23]=61;
    pupil_courses[23,54]=1
    pupil_courses[23,61]=1
    pupil_courses[23,66]=1
- 
+
 grade[24]=61;
   pupil_courses[24,1]=1
    pupil_courses[24,5]=1
@@ -443,7 +443,7 @@ grade[24]=61;
    pupil_courses[24,62]=1
    pupil_courses[24,63]=1
    pupil_courses[24,66]=1
- 
+
 grade[25]=61;
   pupil_courses[25,1]=1
    pupil_courses[25,7]=1
@@ -461,7 +461,7 @@ grade[25]=61;
    pupil_courses[25,58]=1
    pupil_courses[25,63]=1
    pupil_courses[25,66]=1
- 
+
 grade[26]=61;
   pupil_courses[26,1]=1
    pupil_courses[26,7]=1
@@ -479,7 +479,7 @@ grade[26]=61;
    pupil_courses[26,58]=1
    pupil_courses[26,63]=1
    pupil_courses[26,66]=1
- 
+
 grade[27]=61;
   pupil_courses[27,1]=1
    pupil_courses[27,2]=1
@@ -497,7 +497,7 @@ grade[27]=61;
    pupil_courses[27,61]=1
    pupil_courses[27,63]=1
    pupil_courses[27,66]=1
- 
+
 grade[28]=61;
   pupil_courses[28,1]=1
    pupil_courses[28,7]=1
@@ -515,7 +515,7 @@ grade[28]=61;
    pupil_courses[28,61]=1
    pupil_courses[28,63]=1
    pupil_courses[28,66]=1
- 
+
 grade[29]=61;
   pupil_courses[29,1]=1
    pupil_courses[29,5]=1
@@ -533,7 +533,7 @@ grade[29]=61;
    pupil_courses[29,58]=1
    pupil_courses[29,63]=1
    pupil_courses[29,66]=1
- 
+
 grade[30]=61;
   pupil_courses[30,2]=1
    pupil_courses[30,7]=1
@@ -551,7 +551,7 @@ grade[30]=61;
    pupil_courses[30,61]=1
    pupil_courses[30,62]=1
    pupil_courses[30,66]=1
- 
+
 grade[31]=61;
   pupil_courses[31,1]=1
    pupil_courses[31,7]=1
@@ -568,7 +568,7 @@ grade[31]=61;
    pupil_courses[31,58]=1
    pupil_courses[31,63]=1
    pupil_courses[31,66]=1
- 
+
 grade[32]=61;
   pupil_courses[32,1]=1
    pupil_courses[32,5]=1
@@ -586,7 +586,7 @@ grade[32]=61;
    pupil_courses[32,58]=1
    pupil_courses[32,63]=1
    pupil_courses[32,66]=1
- 
+
 grade[33]=61;
   pupil_courses[33,1]=1
    pupil_courses[33,7]=1
@@ -603,7 +603,7 @@ grade[33]=61;
    pupil_courses[33,62]=1
    pupil_courses[33,63]=1
    pupil_courses[33,66]=1
- 
+
 grade[34]=61;
   pupil_courses[34,1]=1
    pupil_courses[34,2]=1
@@ -621,7 +621,7 @@ grade[34]=61;
    pupil_courses[34,61]=1
    pupil_courses[34,63]=1
    pupil_courses[34,66]=1
- 
+
 grade[35]=61;
   pupil_courses[35,1]=1
    pupil_courses[35,5]=1
@@ -639,7 +639,7 @@ grade[35]=61;
    pupil_courses[35,58]=1
    pupil_courses[35,63]=1
    pupil_courses[35,66]=1
- 
+
 grade[36]=61;
   pupil_courses[36,1]=1
    pupil_courses[36,2]=1
@@ -657,7 +657,7 @@ grade[36]=61;
    pupil_courses[36,61]=1
    pupil_courses[36,63]=1
    pupil_courses[36,66]=1
- 
+
 grade[37]=61;
   pupil_courses[37,1]=1
    pupil_courses[37,2]=1
@@ -675,7 +675,7 @@ grade[37]=61;
    pupil_courses[37,61]=1
    pupil_courses[37,63]=1
    pupil_courses[37,66]=1
- 
+
 grade[38]=61;
   pupil_courses[38,1]=1
    pupil_courses[38,5]=1
@@ -693,7 +693,7 @@ grade[38]=61;
    pupil_courses[38,58]=1
    pupil_courses[38,63]=1
    pupil_courses[38,66]=1
- 
+
 grade[39]=61;
   pupil_courses[39,1]=1
    pupil_courses[39,7]=1
@@ -711,7 +711,7 @@ grade[39]=61;
    pupil_courses[39,61]=1
    pupil_courses[39,63]=1
    pupil_courses[39,66]=1
- 
+
 grade[40]=61;
   pupil_courses[40,1]=1
    pupil_courses[40,7]=1
@@ -729,7 +729,7 @@ grade[40]=61;
    pupil_courses[40,58]=1
    pupil_courses[40,63]=1
    pupil_courses[40,66]=1
- 
+
 grade[41]=61;
   pupil_courses[41,1]=1
    pupil_courses[41,2]=1
@@ -747,7 +747,7 @@ grade[41]=61;
    pupil_courses[41,54]=1
    pupil_courses[41,57]=1
    pupil_courses[41,66]=1
- 
+
 grade[42]=61;
   pupil_courses[42,1]=1
    pupil_courses[42,2]=1
@@ -765,7 +765,7 @@ grade[42]=61;
    pupil_courses[42,58]=1
    pupil_courses[42,61]=1
    pupil_courses[42,66]=1
- 
+
 grade[43]=61;
   pupil_courses[43,5]=1
    pupil_courses[43,7]=1
@@ -782,7 +782,7 @@ grade[43]=61;
    pupil_courses[43,61]=1
    pupil_courses[43,62]=1
    pupil_courses[43,66]=1
- 
+
 grade[44]=61;
   pupil_courses[44,1]=1
    pupil_courses[44,7]=1
@@ -800,7 +800,7 @@ grade[44]=61;
    pupil_courses[44,61]=1
    pupil_courses[44,63]=1
    pupil_courses[44,66]=1
- 
+
 grade[45]=61;
   pupil_courses[45,2]=1
    pupil_courses[45,8]=1
@@ -818,7 +818,7 @@ grade[45]=61;
    pupil_courses[45,57]=1
    pupil_courses[45,63]=1
    pupil_courses[45,66]=1
- 
+
 grade[46]=61;
   pupil_courses[46,2]=1
    pupil_courses[46,7]=1
@@ -836,7 +836,7 @@ grade[46]=61;
    pupil_courses[46,61]=1
    pupil_courses[46,62]=1
    pupil_courses[46,66]=1
- 
+
 grade[47]=61;
   pupil_courses[47,1]=1
    pupil_courses[47,2]=1
@@ -854,7 +854,7 @@ grade[47]=61;
    pupil_courses[47,62]=1
    pupil_courses[47,63]=1
    pupil_courses[47,66]=1
- 
+
 grade[48]=63;
   pupil_courses[48,1]=1
    pupil_courses[48,7]=1
@@ -872,7 +872,7 @@ grade[48]=63;
    pupil_courses[48,58]=1
    pupil_courses[48,63]=1
    pupil_courses[48,66]=1
- 
+
 grade[49]=63;
   pupil_courses[49,2]=1
    pupil_courses[49,7]=1
@@ -891,7 +891,7 @@ grade[49]=63;
    pupil_courses[49,58]=1
    pupil_courses[49,63]=1
    pupil_courses[49,66]=1
- 
+
 grade[50]=63;
   pupil_courses[50,2]=1
    pupil_courses[50,7]=1
@@ -909,7 +909,7 @@ grade[50]=63;
    pupil_courses[50,58]=1
    pupil_courses[50,63]=1
    pupil_courses[50,66]=1
- 
+
 grade[51]=63;
   pupil_courses[51,1]=1
    pupil_courses[51,7]=1
@@ -927,7 +927,7 @@ grade[51]=63;
    pupil_courses[51,58]=1
    pupil_courses[51,63]=1
    pupil_courses[51,66]=1
- 
+
 grade[52]=63;
   pupil_courses[52,1]=1
    pupil_courses[52,5]=1
@@ -946,7 +946,7 @@ grade[52]=63;
    pupil_courses[52,58]=1
    pupil_courses[52,63]=1
    pupil_courses[52,66]=1
- 
+
 grade[53]=63;
   pupil_courses[53,2]=1
    pupil_courses[53,7]=1
@@ -964,7 +964,7 @@ grade[53]=63;
    pupil_courses[53,58]=1
    pupil_courses[53,63]=1
    pupil_courses[53,66]=1
- 
+
 grade[54]=63;
   pupil_courses[54,1]=1
    pupil_courses[54,7]=1
@@ -982,7 +982,7 @@ grade[54]=63;
    pupil_courses[54,54]=1
    pupil_courses[54,63]=1
    pupil_courses[54,66]=1
- 
+
 grade[55]=63;
   pupil_courses[55,2]=1
    pupil_courses[55,5]=1
@@ -1000,7 +1000,7 @@ grade[55]=63;
    pupil_courses[55,58]=1
    pupil_courses[55,63]=1
    pupil_courses[55,66]=1
- 
+
 grade[56]=63;
   pupil_courses[56,1]=1
    pupil_courses[56,5]=1
@@ -1018,7 +1018,7 @@ grade[56]=63;
    pupil_courses[56,58]=1
    pupil_courses[56,63]=1
    pupil_courses[56,66]=1
- 
+
 grade[57]=63;
   pupil_courses[57,1]=1
    pupil_courses[57,7]=1
@@ -1036,7 +1036,7 @@ grade[57]=63;
    pupil_courses[57,57]=1
    pupil_courses[57,63]=1
    pupil_courses[57,66]=1
- 
+
 grade[58]=63;
   pupil_courses[58,1]=1
    pupil_courses[58,2]=1
@@ -1054,7 +1054,7 @@ grade[58]=63;
    pupil_courses[58,57]=1
    pupil_courses[58,63]=1
    pupil_courses[58,66]=1
- 
+
 grade[59]=63;
   pupil_courses[59,1]=1
    pupil_courses[59,11]=1
@@ -1072,7 +1072,7 @@ grade[59]=63;
    pupil_courses[59,57]=1
    pupil_courses[59,63]=1
    pupil_courses[59,66]=1
- 
+
 grade[60]=63;
   pupil_courses[60,1]=1
    pupil_courses[60,2]=1
@@ -1090,7 +1090,7 @@ grade[60]=63;
    pupil_courses[60,51]=1
    pupil_courses[60,57]=1
    pupil_courses[60,66]=1
- 
+
 grade[61]=63;
   pupil_courses[61,1]=1
    pupil_courses[61,7]=1
@@ -1108,7 +1108,7 @@ grade[61]=63;
    pupil_courses[61,58]=1
    pupil_courses[61,63]=1
    pupil_courses[61,66]=1
- 
+
 grade[62]=63;
   pupil_courses[62,1]=1
    pupil_courses[62,7]=1
@@ -1126,7 +1126,7 @@ grade[62]=63;
    pupil_courses[62,57]=1
    pupil_courses[62,58]=1
    pupil_courses[62,66]=1
- 
+
 grade[63]=63;
   pupil_courses[63,2]=1
    pupil_courses[63,7]=1
@@ -1144,7 +1144,7 @@ grade[63]=63;
    pupil_courses[63,51]=1
    pupil_courses[63,54]=1
    pupil_courses[63,66]=1
- 
+
 grade[64]=63;
   pupil_courses[64,2]=1
    pupil_courses[64,8]=1
@@ -1162,7 +1162,7 @@ grade[64]=63;
    pupil_courses[64,52]=1
    pupil_courses[64,57]=1
    pupil_courses[64,66]=1
- 
+
 grade[65]=63;
   pupil_courses[65,2]=1
    pupil_courses[65,7]=1
@@ -1180,7 +1180,7 @@ grade[65]=63;
    pupil_courses[65,57]=1
    pupil_courses[65,58]=1
    pupil_courses[65,66]=1
- 
+
 grade[66]=63;
   pupil_courses[66,13]=1
    pupil_courses[66,16]=1
@@ -1198,7 +1198,7 @@ grade[66]=63;
    pupil_courses[66,57]=1
    pupil_courses[66,63]=1
    pupil_courses[66,66]=1
- 
+
 grade[67]=63;
   pupil_courses[67,1]=1
    pupil_courses[67,5]=1
@@ -1216,7 +1216,7 @@ grade[67]=63;
    pupil_courses[67,61]=1
    pupil_courses[67,63]=1
    pupil_courses[67,66]=1
- 
+
 grade[68]=63;
   pupil_courses[68,1]=1
    pupil_courses[68,8]=1
@@ -1234,7 +1234,7 @@ grade[68]=63;
    pupil_courses[68,58]=1
    pupil_courses[68,63]=1
    pupil_courses[68,66]=1
- 
+
 grade[69]=63;
   pupil_courses[69,1]=1
    pupil_courses[69,8]=1
@@ -1252,7 +1252,7 @@ grade[69]=63;
    pupil_courses[69,57]=1
    pupil_courses[69,63]=1
    pupil_courses[69,66]=1
- 
+
 grade[70]=71;
   pupil_courses[70,2]=1
    pupil_courses[70,4]=1
@@ -1269,7 +1269,7 @@ grade[70]=71;
    pupil_courses[70,51]=1
    pupil_courses[70,62]=1
    pupil_courses[70,63]=1
- 
+
 grade[71]=71;
   pupil_courses[71,1]=1
    pupil_courses[71,2]=1
@@ -1286,7 +1286,7 @@ grade[71]=71;
    pupil_courses[71,51]=1
    pupil_courses[71,52]=1
    pupil_courses[71,63]=1
- 
+
 grade[72]=71;
   pupil_courses[72,1]=1
    pupil_courses[72,5]=1
@@ -1303,7 +1303,7 @@ grade[72]=71;
    pupil_courses[72,50]=1
    pupil_courses[72,51]=1
    pupil_courses[72,61]=1
- 
+
 grade[73]=71;
   pupil_courses[73,1]=1
    pupil_courses[73,4]=1
@@ -1320,7 +1320,7 @@ grade[73]=71;
    pupil_courses[73,43]=1
    pupil_courses[73,51]=1
    pupil_courses[73,63]=1
- 
+
 grade[74]=71;
   pupil_courses[74,1]=1
    pupil_courses[74,4]=1
@@ -1337,7 +1337,7 @@ grade[74]=71;
    pupil_courses[74,39]=1
    pupil_courses[74,40]=1
    pupil_courses[74,51]=1
- 
+
 grade[75]=71;
   pupil_courses[75,1]=1
    pupil_courses[75,4]=1
@@ -1355,7 +1355,7 @@ grade[75]=71;
    pupil_courses[75,52]=1
    pupil_courses[75,61]=1
    pupil_courses[75,63]=1
- 
+
 grade[76]=71;
   pupil_courses[76,1]=1
    pupil_courses[76,6]=1
@@ -1372,7 +1372,7 @@ grade[76]=71;
    pupil_courses[76,51]=1
    pupil_courses[76,52]=1
    pupil_courses[76,64]=1
- 
+
 grade[77]=71;
   pupil_courses[77,1]=1
    pupil_courses[77,4]=1
@@ -1389,7 +1389,7 @@ grade[77]=71;
    pupil_courses[77,40]=1
    pupil_courses[77,51]=1
    pupil_courses[77,61]=1
- 
+
 grade[78]=71;
   pupil_courses[78,1]=1
    pupil_courses[78,2]=1
@@ -1406,7 +1406,7 @@ grade[78]=71;
    pupil_courses[78,40]=1
    pupil_courses[78,62]=1
    pupil_courses[78,63]=1
- 
+
 grade[79]=71;
   pupil_courses[79,1]=1
    pupil_courses[79,2]=1
@@ -1423,7 +1423,7 @@ grade[79]=71;
    pupil_courses[79,51]=1
    pupil_courses[79,52]=1
    pupil_courses[79,63]=1
- 
+
 grade[80]=71;
   pupil_courses[80,1]=1
    pupil_courses[80,4]=1
@@ -1440,7 +1440,7 @@ grade[80]=71;
    pupil_courses[80,36]=1
    pupil_courses[80,40]=1
    pupil_courses[80,63]=1
- 
+
 grade[81]=71;
   pupil_courses[81,1]=1
    pupil_courses[81,2]=1
@@ -1457,7 +1457,7 @@ grade[81]=71;
    pupil_courses[81,51]=1
    pupil_courses[81,52]=1
    pupil_courses[81,63]=1
- 
+
 grade[82]=71;
   pupil_courses[82,4]=1
    pupil_courses[82,5]=1
@@ -1474,7 +1474,7 @@ grade[82]=71;
    pupil_courses[82,51]=1
    pupil_courses[82,61]=1
    pupil_courses[82,63]=1
- 
+
 grade[83]=71;
   pupil_courses[83,1]=1
    pupil_courses[83,2]=1
@@ -1491,7 +1491,7 @@ grade[83]=71;
    pupil_courses[83,48]=1
    pupil_courses[83,51]=1
    pupil_courses[83,63]=1
- 
+
 grade[84]=71;
   pupil_courses[84,1]=1
    pupil_courses[84,2]=1
@@ -1508,7 +1508,7 @@ grade[84]=71;
    pupil_courses[84,40]=1
    pupil_courses[84,51]=1
    pupil_courses[84,63]=1
- 
+
 grade[85]=71;
   pupil_courses[85,1]=1
    pupil_courses[85,2]=1
@@ -1525,7 +1525,7 @@ grade[85]=71;
    pupil_courses[85,34]=1
    pupil_courses[85,37]=1
    pupil_courses[85,40]=1
- 
+
 grade[86]=71;
   pupil_courses[86,1]=1
    pupil_courses[86,6]=1
@@ -1542,7 +1542,7 @@ grade[86]=71;
    pupil_courses[86,43]=1
    pupil_courses[86,46]=1
    pupil_courses[86,63]=1
- 
+
 grade[87]=71;
   pupil_courses[87,1]=1
    pupil_courses[87,7]=1
@@ -1559,7 +1559,7 @@ grade[87]=71;
    pupil_courses[87,43]=1
    pupil_courses[87,46]=1
    pupil_courses[87,63]=1
- 
+
 grade[88]=71;
   pupil_courses[88,1]=1
    pupil_courses[88,6]=1
@@ -1576,7 +1576,7 @@ grade[88]=71;
    pupil_courses[88,43]=1
    pupil_courses[88,46]=1
    pupil_courses[88,63]=1
- 
+
 grade[89]=71;
   pupil_courses[89,4]=1
    pupil_courses[89,5]=1
@@ -1593,7 +1593,7 @@ grade[89]=71;
    pupil_courses[89,50]=1
    pupil_courses[89,51]=1
    pupil_courses[89,52]=1
- 
+
 grade[90]=71;
   pupil_courses[90,1]=1
    pupil_courses[90,6]=1
@@ -1610,7 +1610,7 @@ grade[90]=71;
    pupil_courses[90,43]=1
    pupil_courses[90,46]=1
    pupil_courses[90,63]=1
- 
+
 grade[91]=72;
   pupil_courses[91,1]=1
    pupil_courses[91,4]=1
@@ -1627,7 +1627,7 @@ grade[91]=72;
    pupil_courses[91,40]=1
    pupil_courses[91,43]=1
    pupil_courses[91,63]=1
- 
+
 grade[92]=72;
   pupil_courses[92,1]=1
    pupil_courses[92,4]=1
@@ -1644,7 +1644,7 @@ grade[92]=72;
    pupil_courses[92,52]=1
    pupil_courses[92,61]=1
    pupil_courses[92,63]=1
- 
+
 grade[93]=72;
   pupil_courses[93,4]=1
    pupil_courses[93,5]=1
@@ -1659,7 +1659,7 @@ grade[93]=72;
    pupil_courses[93,43]=1
    pupil_courses[93,51]=1
    pupil_courses[93,63]=1
- 
+
 grade[94]=72;
   pupil_courses[94,1]=1
    pupil_courses[94,6]=1
@@ -1676,7 +1676,7 @@ grade[94]=72;
    pupil_courses[94,52]=1
    pupil_courses[94,61]=1
    pupil_courses[94,63]=1
- 
+
 grade[95]=72;
   pupil_courses[95,2]=1
    pupil_courses[95,4]=1
@@ -1693,7 +1693,7 @@ grade[95]=72;
    pupil_courses[95,61]=1
    pupil_courses[95,62]=1
    pupil_courses[95,63]=1
- 
+
 grade[96]=72;
   pupil_courses[96,4]=1
    pupil_courses[96,5]=1
@@ -1710,7 +1710,7 @@ grade[96]=72;
    pupil_courses[96,50]=1
    pupil_courses[96,51]=1
    pupil_courses[96,52]=1
- 
+
 grade[97]=72;
   pupil_courses[97,2]=1
    pupil_courses[97,4]=1
@@ -1727,7 +1727,7 @@ grade[97]=72;
    pupil_courses[97,61]=1
    pupil_courses[97,62]=1
    pupil_courses[97,63]=1
- 
+
 grade[98]=72;
   pupil_courses[98,2]=1
    pupil_courses[98,4]=1
@@ -1744,7 +1744,7 @@ grade[98]=72;
    pupil_courses[98,52]=1
    pupil_courses[98,61]=1
    pupil_courses[98,63]=1
- 
+
 grade[99]=72;
   pupil_courses[99,2]=1
    pupil_courses[99,5]=1
@@ -1761,7 +1761,7 @@ grade[99]=72;
    pupil_courses[99,37]=1
    pupil_courses[99,43]=1
    pupil_courses[99,64]=1
- 
+
 grade[100]=72;
   pupil_courses[100,1]=1
    pupil_courses[100,2]=1
@@ -1778,7 +1778,7 @@ grade[100]=72;
    pupil_courses[100,37]=1
    pupil_courses[100,43]=1
    pupil_courses[100,64]=1
- 
+
 grade[101]=72;
   pupil_courses[101,1]=1
    pupil_courses[101,2]=1
@@ -1795,7 +1795,7 @@ grade[101]=72;
    pupil_courses[101,50]=1
    pupil_courses[101,61]=1
    pupil_courses[101,63]=1
- 
+
 grade[102]=72;
   pupil_courses[102,1]=1
    pupil_courses[102,4]=1
@@ -1812,7 +1812,7 @@ grade[102]=72;
    pupil_courses[102,50]=1
    pupil_courses[102,52]=1
    pupil_courses[102,61]=1
- 
+
 grade[103]=72;
   pupil_courses[103,1]=1
    pupil_courses[103,4]=1
@@ -1829,7 +1829,7 @@ grade[103]=72;
    pupil_courses[103,52]=1
    pupil_courses[103,61]=1
    pupil_courses[103,63]=1
- 
+
 grade[104]=72;
   pupil_courses[104,1]=1
    pupil_courses[104,6]=1
@@ -1846,7 +1846,7 @@ grade[104]=72;
    pupil_courses[104,52]=1
    pupil_courses[104,61]=1
    pupil_courses[104,62]=1
- 
+
 grade[105]=72;
   pupil_courses[105,2]=1
    pupil_courses[105,5]=1
@@ -1860,7 +1860,7 @@ grade[105]=72;
    pupil_courses[105,43]=1
    pupil_courses[105,52]=1
    pupil_courses[105,62]=1
- 
+
 grade[106]=72;
   pupil_courses[106,2]=1
    pupil_courses[106,10]=1
@@ -1877,7 +1877,7 @@ grade[106]=72;
    pupil_courses[106,43]=1
    pupil_courses[106,51]=1
    pupil_courses[106,64]=1
- 
+
 grade[107]=72;
   pupil_courses[107,2]=1
    pupil_courses[107,4]=1
@@ -1894,7 +1894,7 @@ grade[107]=72;
    pupil_courses[107,61]=1
    pupil_courses[107,62]=1
    pupil_courses[107,63]=1
- 
+
 grade[108]=72;
   pupil_courses[108,1]=1
    pupil_courses[108,4]=1
@@ -1911,7 +1911,7 @@ grade[108]=72;
    pupil_courses[108,40]=1
    pupil_courses[108,43]=1
    pupil_courses[108,63]=1
- 
+
 grade[109]=72;
   pupil_courses[109,1]=1
    pupil_courses[109,2]=1
@@ -1928,7 +1928,7 @@ grade[109]=72;
    pupil_courses[109,48]=1
    pupil_courses[109,51]=1
    pupil_courses[109,52]=1
- 
+
 grade[110]=72;
   pupil_courses[110,1]=1
    pupil_courses[110,2]=1
@@ -1945,7 +1945,7 @@ grade[110]=72;
    pupil_courses[110,40]=1
    pupil_courses[110,43]=1
    pupil_courses[110,64]=1
- 
+
 grade[111]=72;
   pupil_courses[111,1]=1
    pupil_courses[111,4]=1
@@ -1962,7 +1962,7 @@ grade[111]=72;
    pupil_courses[111,40]=1
    pupil_courses[111,43]=1
    pupil_courses[111,63]=1
- 
+
 grade[112]=72;
   pupil_courses[112,1]=1
    pupil_courses[112,4]=1
@@ -1979,7 +1979,7 @@ grade[112]=72;
    pupil_courses[112,40]=1
    pupil_courses[112,43]=1
    pupil_courses[112,63]=1
- 
+
 grade[113]=72;
   pupil_courses[113,1]=1
    pupil_courses[113,4]=1
@@ -1996,7 +1996,7 @@ grade[113]=72;
    pupil_courses[113,36]=1
    pupil_courses[113,40]=1
    pupil_courses[113,43]=1
- 
+
 grade[114]=72;
   pupil_courses[114,1]=1
    pupil_courses[114,4]=1
@@ -2010,7 +2010,7 @@ grade[114]=72;
    pupil_courses[114,40]=1
    pupil_courses[114,51]=1
    pupil_courses[114,52]=1
- 
+
 grade[115]=73;
   pupil_courses[115,1]=1
    pupil_courses[115,2]=1
@@ -2027,7 +2027,7 @@ grade[115]=73;
    pupil_courses[115,43]=1
    pupil_courses[115,52]=1
    pupil_courses[115,63]=1
- 
+
 grade[116]=73;
   pupil_courses[116,1]=1
    pupil_courses[116,4]=1
@@ -2045,7 +2045,7 @@ grade[116]=73;
    pupil_courses[116,51]=1
    pupil_courses[116,52]=1
    pupil_courses[116,63]=1
- 
+
 grade[117]=73;
   pupil_courses[117,1]=1
    pupil_courses[117,4]=1
@@ -2063,7 +2063,7 @@ grade[117]=73;
    pupil_courses[117,52]=1
    pupil_courses[117,61]=1
    pupil_courses[117,63]=1
- 
+
 grade[118]=73;
   pupil_courses[118,1]=1
    pupil_courses[118,2]=1
@@ -2080,7 +2080,7 @@ grade[118]=73;
    pupil_courses[118,43]=1
    pupil_courses[118,52]=1
    pupil_courses[118,63]=1
- 
+
 grade[119]=73;
   pupil_courses[119,1]=1
    pupil_courses[119,4]=1
@@ -2097,7 +2097,7 @@ grade[119]=73;
    pupil_courses[119,52]=1
    pupil_courses[119,61]=1
    pupil_courses[119,63]=1
- 
+
 grade[120]=73;
   pupil_courses[120,1]=1
    pupil_courses[120,5]=1
@@ -2114,7 +2114,7 @@ grade[120]=73;
    pupil_courses[120,52]=1
    pupil_courses[120,61]=1
    pupil_courses[120,62]=1
- 
+
 grade[121]=73;
   pupil_courses[121,1]=1
    pupil_courses[121,2]=1
@@ -2131,7 +2131,7 @@ grade[121]=73;
    pupil_courses[121,43]=1
    pupil_courses[121,52]=1
    pupil_courses[121,63]=1
- 
+
 grade[122]=73;
   pupil_courses[122,1]=1
    pupil_courses[122,2]=1
@@ -2148,7 +2148,7 @@ grade[122]=73;
    pupil_courses[122,43]=1
    pupil_courses[122,48]=1
    pupil_courses[122,63]=1
- 
+
 grade[123]=73;
   pupil_courses[123,1]=1
    pupil_courses[123,4]=1
@@ -2165,7 +2165,7 @@ grade[123]=73;
    pupil_courses[123,52]=1
    pupil_courses[123,61]=1
    pupil_courses[123,63]=1
- 
+
 grade[124]=73;
   pupil_courses[124,2]=1
    pupil_courses[124,4]=1
@@ -2182,7 +2182,7 @@ grade[124]=73;
    pupil_courses[124,46]=1
    pupil_courses[124,62]=1
    pupil_courses[124,63]=1
- 
+
 grade[125]=73;
   pupil_courses[125,1]=1
    pupil_courses[125,4]=1
@@ -2200,7 +2200,7 @@ grade[125]=73;
    pupil_courses[125,52]=1
    pupil_courses[125,61]=1
    pupil_courses[125,63]=1
- 
+
 grade[126]=73;
   pupil_courses[126,4]=1
    pupil_courses[126,8]=1
@@ -2217,7 +2217,7 @@ grade[126]=73;
    pupil_courses[126,51]=1
    pupil_courses[126,52]=1
    pupil_courses[126,63]=1
- 
+
 grade[127]=73;
   pupil_courses[127,1]=1
    pupil_courses[127,4]=1
@@ -2233,7 +2233,7 @@ grade[127]=73;
    pupil_courses[127,48]=1
    pupil_courses[127,50]=1
    pupil_courses[127,51]=1
- 
+
 grade[128]=73;
   pupil_courses[128,1]=1
    pupil_courses[128,5]=1
@@ -2250,7 +2250,7 @@ grade[128]=73;
    pupil_courses[128,52]=1
    pupil_courses[128,61]=1
    pupil_courses[128,62]=1
- 
+
 grade[129]=73;
   pupil_courses[129,1]=1
    pupil_courses[129,2]=1
@@ -2267,7 +2267,7 @@ grade[129]=73;
    pupil_courses[129,46]=1
    pupil_courses[129,62]=1
    pupil_courses[129,63]=1
- 
+
 grade[130]=73;
   pupil_courses[130,2]=1
    pupil_courses[130,4]=1
@@ -2284,7 +2284,7 @@ grade[130]=73;
    pupil_courses[130,46]=1
    pupil_courses[130,62]=1
    pupil_courses[130,63]=1
- 
+
 grade[131]=73;
   pupil_courses[131,1]=1
    pupil_courses[131,4]=1
@@ -2301,7 +2301,7 @@ grade[131]=73;
    pupil_courses[131,51]=1
    pupil_courses[131,52]=1
    pupil_courses[131,63]=1
- 
+
 grade[132]=73;
   pupil_courses[132,2]=1
    pupil_courses[132,7]=1
@@ -2318,7 +2318,7 @@ grade[132]=73;
    pupil_courses[132,48]=1
    pupil_courses[132,61]=1
    pupil_courses[132,62]=1
- 
+
 grade[133]=73;
   pupil_courses[133,1]=1
    pupil_courses[133,2]=1
@@ -2335,7 +2335,7 @@ grade[133]=73;
    pupil_courses[133,43]=1
    pupil_courses[133,52]=1
    pupil_courses[133,63]=1
- 
+
 grade[134]=73;
   pupil_courses[134,1]=1
    pupil_courses[134,2]=1
@@ -2352,7 +2352,7 @@ grade[134]=73;
    pupil_courses[134,43]=1
    pupil_courses[134,48]=1
    pupil_courses[134,63]=1
- 
+
 grade[135]=73;
   pupil_courses[135,1]=1
    pupil_courses[135,5]=1
@@ -2369,7 +2369,7 @@ grade[135]=73;
    pupil_courses[135,52]=1
    pupil_courses[135,61]=1
    pupil_courses[135,62]=1
- 
+
 grade[136]=73;
   pupil_courses[136,1]=1
    pupil_courses[136,7]=1
@@ -2386,7 +2386,7 @@ grade[136]=73;
    pupil_courses[136,52]=1
    pupil_courses[136,61]=1
    pupil_courses[136,63]=1
- 
+
 grade[137]=81;
   pupil_courses[137,2]=1
    pupil_courses[137,4]=1
@@ -2404,7 +2404,7 @@ grade[137]=81;
    pupil_courses[137,55]=1
    pupil_courses[137,63]=1
    pupil_courses[137,65]=1
- 
+
 grade[138]=81;
   pupil_courses[138,1]=1
    pupil_courses[138,4]=1
@@ -2422,7 +2422,7 @@ grade[138]=81;
    pupil_courses[138,52]=1
    pupil_courses[138,55]=1
    pupil_courses[138,65]=1
- 
+
 grade[139]=81;
   pupil_courses[139,1]=1
    pupil_courses[139,4]=1
@@ -2441,7 +2441,7 @@ grade[139]=81;
    pupil_courses[139,55]=1
    pupil_courses[139,63]=1
    pupil_courses[139,65]=1
- 
+
 grade[140]=81;
   pupil_courses[140,1]=1
    pupil_courses[140,4]=1
@@ -2459,7 +2459,7 @@ grade[140]=81;
    pupil_courses[140,55]=1
    pupil_courses[140,63]=1
    pupil_courses[140,65]=1
- 
+
 grade[141]=81;
   pupil_courses[141,1]=1
    pupil_courses[141,2]=1
@@ -2477,7 +2477,7 @@ grade[141]=81;
    pupil_courses[141,59]=1
    pupil_courses[141,61]=1
    pupil_courses[141,65]=1
- 
+
 grade[142]=81;
   pupil_courses[142,4]=1
    pupil_courses[142,7]=1
@@ -2495,7 +2495,7 @@ grade[142]=81;
    pupil_courses[142,59]=1
    pupil_courses[142,61]=1
    pupil_courses[142,65]=1
- 
+
 grade[143]=81;
   pupil_courses[143,1]=1
    pupil_courses[143,2]=1
@@ -2513,7 +2513,7 @@ grade[143]=81;
    pupil_courses[143,56]=1
    pupil_courses[143,59]=1
    pupil_courses[143,65]=1
- 
+
 grade[144]=81;
   pupil_courses[144,4]=1
    pupil_courses[144,5]=1
@@ -2531,7 +2531,7 @@ grade[144]=81;
    pupil_courses[144,56]=1
    pupil_courses[144,63]=1
    pupil_courses[144,65]=1
- 
+
 grade[145]=81;
   pupil_courses[145,4]=1
    pupil_courses[145,5]=1
@@ -2549,7 +2549,7 @@ grade[145]=81;
    pupil_courses[145,56]=1
    pupil_courses[145,63]=1
    pupil_courses[145,65]=1
- 
+
 grade[146]=81;
   pupil_courses[146,4]=1
    pupil_courses[146,5]=1
@@ -2567,7 +2567,7 @@ grade[146]=81;
    pupil_courses[146,56]=1
    pupil_courses[146,63]=1
    pupil_courses[146,65]=1
- 
+
 grade[147]=81;
   pupil_courses[147,4]=1
    pupil_courses[147,7]=1
@@ -2585,7 +2585,7 @@ grade[147]=81;
    pupil_courses[147,59]=1
    pupil_courses[147,61]=1
    pupil_courses[147,65]=1
- 
+
 grade[148]=81;
   pupil_courses[148,1]=1
    pupil_courses[148,2]=1
@@ -2603,7 +2603,7 @@ grade[148]=81;
    pupil_courses[148,59]=1
    pupil_courses[148,63]=1
    pupil_courses[148,65]=1
- 
+
 grade[149]=81;
   pupil_courses[149,1]=1
    pupil_courses[149,2]=1
@@ -2621,7 +2621,7 @@ grade[149]=81;
    pupil_courses[149,55]=1
    pupil_courses[149,63]=1
    pupil_courses[149,65]=1
- 
+
 grade[150]=81;
   pupil_courses[150,1]=1
    pupil_courses[150,2]=1
@@ -2640,7 +2640,7 @@ grade[150]=81;
    pupil_courses[150,45]=1
    pupil_courses[150,55]=1
    pupil_courses[150,65]=1
- 
+
 grade[151]=81;
   pupil_courses[151,1]=1
    pupil_courses[151,5]=1
@@ -2658,7 +2658,7 @@ grade[151]=81;
    pupil_courses[151,56]=1
    pupil_courses[151,63]=1
    pupil_courses[151,65]=1
- 
+
 grade[152]=81;
   pupil_courses[152,4]=1
    pupil_courses[152,7]=1
@@ -2676,7 +2676,7 @@ grade[152]=81;
    pupil_courses[152,59]=1
    pupil_courses[152,61]=1
    pupil_courses[152,65]=1
- 
+
 grade[153]=81;
   pupil_courses[153,7]=1
    pupil_courses[153,12]=1
@@ -2694,7 +2694,7 @@ grade[153]=81;
    pupil_courses[153,59]=1
    pupil_courses[153,61]=1
    pupil_courses[153,65]=1
- 
+
 grade[154]=81;
   pupil_courses[154,1]=1
    pupil_courses[154,6]=1
@@ -2712,7 +2712,7 @@ grade[154]=81;
    pupil_courses[154,55]=1
    pupil_courses[154,63]=1
    pupil_courses[154,65]=1
- 
+
 grade[155]=81;
   pupil_courses[155,1]=1
    pupil_courses[155,4]=1
@@ -2730,7 +2730,7 @@ grade[155]=81;
    pupil_courses[155,52]=1
    pupil_courses[155,55]=1
    pupil_courses[155,65]=1
- 
+
 grade[156]=81;
   pupil_courses[156,4]=1
    pupil_courses[156,5]=1
@@ -2748,7 +2748,7 @@ grade[156]=81;
    pupil_courses[156,56]=1
    pupil_courses[156,63]=1
    pupil_courses[156,65]=1
- 
+
 grade[157]=81;
   pupil_courses[157,1]=1
    pupil_courses[157,4]=1
@@ -2766,7 +2766,7 @@ grade[157]=81;
    pupil_courses[157,55]=1
    pupil_courses[157,63]=1
    pupil_courses[157,65]=1
- 
+
 grade[158]=81;
   pupil_courses[158,4]=1
    pupil_courses[158,5]=1
@@ -2784,7 +2784,7 @@ grade[158]=81;
    pupil_courses[158,56]=1
    pupil_courses[158,63]=1
    pupil_courses[158,65]=1
- 
+
 grade[159]=81;
   pupil_courses[159,1]=1
    pupil_courses[159,4]=1
@@ -2802,7 +2802,7 @@ grade[159]=81;
    pupil_courses[159,56]=1
    pupil_courses[159,63]=1
    pupil_courses[159,65]=1
- 
+
 grade[160]=81;
   pupil_courses[160,2]=1
    pupil_courses[160,4]=1
@@ -2820,7 +2820,7 @@ grade[160]=81;
    pupil_courses[160,62]=1
    pupil_courses[160,63]=1
    pupil_courses[160,65]=1
- 
+
 grade[161]=81;
   pupil_courses[161,1]=1
    pupil_courses[161,2]=1
@@ -2838,7 +2838,7 @@ grade[161]=81;
    pupil_courses[161,61]=1
    pupil_courses[161,63]=1
    pupil_courses[161,65]=1
- 
+
 grade[162]=82;
   pupil_courses[162,1]=1
    pupil_courses[162,4]=1
@@ -2856,7 +2856,7 @@ grade[162]=82;
    pupil_courses[162,59]=1
    pupil_courses[162,63]=1
    pupil_courses[162,65]=1
- 
+
 grade[163]=82;
   pupil_courses[163,1]=1
    pupil_courses[163,4]=1
@@ -2874,7 +2874,7 @@ grade[163]=82;
    pupil_courses[163,59]=1
    pupil_courses[163,63]=1
    pupil_courses[163,65]=1
- 
+
 grade[164]=82;
   pupil_courses[164,1]=1
    pupil_courses[164,3]=1
@@ -2892,7 +2892,7 @@ grade[164]=82;
    pupil_courses[164,60]=1
    pupil_courses[164,63]=1
    pupil_courses[164,65]=1
- 
+
 grade[165]=82;
   pupil_courses[165,1]=1
    pupil_courses[165,3]=1
@@ -2910,7 +2910,7 @@ grade[165]=82;
    pupil_courses[165,60]=1
    pupil_courses[165,63]=1
    pupil_courses[165,65]=1
- 
+
 grade[166]=82;
   pupil_courses[166,2]=1
    pupil_courses[166,3]=1
@@ -2928,7 +2928,7 @@ grade[166]=82;
    pupil_courses[166,60]=1
    pupil_courses[166,62]=1
    pupil_courses[166,65]=1
- 
+
 grade[167]=82;
   pupil_courses[167,1]=1
    pupil_courses[167,3]=1
@@ -2946,7 +2946,7 @@ grade[167]=82;
    pupil_courses[167,60]=1
    pupil_courses[167,63]=1
    pupil_courses[167,65]=1
- 
+
 grade[168]=82;
   pupil_courses[168,1]=1
    pupil_courses[168,3]=1
@@ -2964,7 +2964,7 @@ grade[168]=82;
    pupil_courses[168,60]=1
    pupil_courses[168,63]=1
    pupil_courses[168,65]=1
- 
+
 grade[169]=82;
   pupil_courses[169,1]=1
    pupil_courses[169,4]=1
@@ -2982,7 +2982,7 @@ grade[169]=82;
    pupil_courses[169,59]=1
    pupil_courses[169,60]=1
    pupil_courses[169,65]=1
- 
+
 grade[170]=82;
   pupil_courses[170,1]=1
    pupil_courses[170,3]=1
@@ -3000,7 +3000,7 @@ grade[170]=82;
    pupil_courses[170,59]=1
    pupil_courses[170,61]=1
    pupil_courses[170,65]=1
- 
+
 grade[171]=82;
   pupil_courses[171,1]=1
    pupil_courses[171,4]=1
@@ -3018,7 +3018,7 @@ grade[171]=82;
    pupil_courses[171,59]=1
    pupil_courses[171,60]=1
    pupil_courses[171,65]=1
- 
+
 grade[172]=82;
   pupil_courses[172,1]=1
    pupil_courses[172,3]=1
@@ -3036,7 +3036,7 @@ grade[172]=82;
    pupil_courses[172,61]=1
    pupil_courses[172,63]=1
    pupil_courses[172,65]=1
- 
+
 grade[173]=82;
   pupil_courses[173,4]=1
    pupil_courses[173,6]=1
@@ -3054,7 +3054,7 @@ grade[173]=82;
    pupil_courses[173,55]=1
    pupil_courses[173,56]=1
    pupil_courses[173,65]=1
- 
+
 grade[174]=82;
   pupil_courses[174,1]=1
    pupil_courses[174,4]=1
@@ -3072,7 +3072,7 @@ grade[174]=82;
    pupil_courses[174,59]=1
    pupil_courses[174,60]=1
    pupil_courses[174,65]=1
- 
+
 grade[175]=82;
   pupil_courses[175,5]=1
    pupil_courses[175,6]=1
@@ -3090,7 +3090,7 @@ grade[175]=82;
    pupil_courses[175,55]=1
    pupil_courses[175,56]=1
    pupil_courses[175,65]=1
- 
+
 grade[176]=82;
   pupil_courses[176,1]=1
    pupil_courses[176,2]=1
@@ -3108,7 +3108,7 @@ grade[176]=82;
    pupil_courses[176,59]=1
    pupil_courses[176,62]=1
    pupil_courses[176,65]=1
- 
+
 grade[177]=82;
   pupil_courses[177,1]=1
    pupil_courses[177,3]=1
@@ -3126,7 +3126,7 @@ grade[177]=82;
    pupil_courses[177,60]=1
    pupil_courses[177,61]=1
    pupil_courses[177,65]=1
- 
+
 grade[178]=82;
   pupil_courses[178,1]=1
    pupil_courses[178,3]=1
@@ -3144,7 +3144,7 @@ grade[178]=82;
    pupil_courses[178,59]=1
    pupil_courses[178,60]=1
    pupil_courses[178,65]=1
- 
+
 grade[179]=82;
   pupil_courses[179,1]=1
    pupil_courses[179,5]=1
@@ -3162,7 +3162,7 @@ grade[179]=82;
    pupil_courses[179,59]=1
    pupil_courses[179,63]=1
    pupil_courses[179,65]=1
- 
+
 grade[180]=82;
   pupil_courses[180,2]=1
    pupil_courses[180,3]=1
@@ -3180,7 +3180,7 @@ grade[180]=82;
    pupil_courses[180,60]=1
    pupil_courses[180,62]=1
    pupil_courses[180,65]=1
- 
+
 grade[181]=82;
   pupil_courses[181,1]=1
    pupil_courses[181,3]=1
@@ -3198,7 +3198,7 @@ grade[181]=82;
    pupil_courses[181,59]=1
    pupil_courses[181,60]=1
    pupil_courses[181,65]=1
- 
+
 grade[182]=82;
   pupil_courses[182,1]=1
    pupil_courses[182,3]=1
@@ -3216,7 +3216,7 @@ grade[182]=82;
    pupil_courses[182,61]=1
    pupil_courses[182,63]=1
    pupil_courses[182,65]=1
- 
+
 grade[183]=82;
   pupil_courses[183,1]=1
    pupil_courses[183,2]=1
@@ -3234,7 +3234,7 @@ grade[183]=82;
    pupil_courses[183,59]=1
    pupil_courses[183,61]=1
    pupil_courses[183,65]=1
- 
+
 grade[184]=82;
   pupil_courses[184,1]=1
    pupil_courses[184,4]=1
@@ -3252,7 +3252,7 @@ grade[184]=82;
    pupil_courses[184,52]=1
    pupil_courses[184,61]=1
    pupil_courses[184,65]=1
- 
+
 grade[185]=82;
   pupil_courses[185,3]=1
    pupil_courses[185,4]=1
@@ -3270,7 +3270,7 @@ grade[185]=82;
    pupil_courses[185,60]=1
    pupil_courses[185,63]=1
    pupil_courses[185,65]=1
- 
+
 grade[186]=82;
   pupil_courses[186,3]=1
    pupil_courses[186,4]=1
@@ -3288,7 +3288,7 @@ grade[186]=82;
    pupil_courses[186,60]=1
    pupil_courses[186,63]=1
    pupil_courses[186,65]=1
- 
+
 grade[187]=82;
   pupil_courses[187,1]=1
    pupil_courses[187,4]=1
@@ -3306,7 +3306,7 @@ grade[187]=82;
    pupil_courses[187,55]=1
    pupil_courses[187,63]=1
    pupil_courses[187,65]=1
- 
+
 grade[188]=83;
   pupil_courses[188,1]=1
    pupil_courses[188,4]=1
@@ -3324,7 +3324,7 @@ grade[188]=83;
    pupil_courses[188,55]=1
    pupil_courses[188,63]=1
    pupil_courses[188,65]=1
- 
+
 grade[189]=83;
   pupil_courses[189,1]=1
    pupil_courses[189,6]=1
@@ -3342,7 +3342,7 @@ grade[189]=83;
    pupil_courses[189,61]=1
    pupil_courses[189,63]=1
    pupil_courses[189,65]=1
- 
+
 grade[190]=83;
   pupil_courses[190,1]=1
    pupil_courses[190,5]=1
@@ -3360,7 +3360,7 @@ grade[190]=83;
    pupil_courses[190,55]=1
    pupil_courses[190,63]=1
    pupil_courses[190,65]=1
- 
+
 grade[191]=83;
   pupil_courses[191,2]=1
    pupil_courses[191,4]=1
@@ -3378,7 +3378,7 @@ grade[191]=83;
    pupil_courses[191,62]=1
    pupil_courses[191,63]=1
    pupil_courses[191,65]=1
- 
+
 grade[192]=83;
   pupil_courses[192,4]=1
    pupil_courses[192,5]=1
@@ -3396,7 +3396,7 @@ grade[192]=83;
    pupil_courses[192,45]=1
    pupil_courses[192,59]=1
    pupil_courses[192,65]=1
- 
+
 grade[193]=83;
   pupil_courses[193,1]=1
    pupil_courses[193,5]=1
@@ -3414,7 +3414,7 @@ grade[193]=83;
    pupil_courses[193,55]=1
    pupil_courses[193,63]=1
    pupil_courses[193,65]=1
- 
+
 grade[194]=83;
   pupil_courses[194,1]=1
    pupil_courses[194,6]=1
@@ -3432,7 +3432,7 @@ grade[194]=83;
    pupil_courses[194,61]=1
    pupil_courses[194,63]=1
    pupil_courses[194,65]=1
- 
+
 grade[195]=83;
   pupil_courses[195,1]=1
    pupil_courses[195,2]=1
@@ -3450,7 +3450,7 @@ grade[195]=83;
    pupil_courses[195,55]=1
    pupil_courses[195,63]=1
    pupil_courses[195,65]=1
- 
+
 grade[196]=83;
   pupil_courses[196,1]=1
    pupil_courses[196,4]=1
@@ -3468,7 +3468,7 @@ grade[196]=83;
    pupil_courses[196,46]=1
    pupil_courses[196,55]=1
    pupil_courses[196,65]=1
- 
+
 grade[197]=83;
   pupil_courses[197,1]=1
    pupil_courses[197,5]=1
@@ -3486,7 +3486,7 @@ grade[197]=83;
    pupil_courses[197,55]=1
    pupil_courses[197,63]=1
    pupil_courses[197,65]=1
- 
+
 grade[198]=83;
   pupil_courses[198,4]=1
    pupil_courses[198,5]=1
@@ -3504,7 +3504,7 @@ grade[198]=83;
    pupil_courses[198,45]=1
    pupil_courses[198,59]=1
    pupil_courses[198,65]=1
- 
+
 grade[199]=83;
   pupil_courses[199,1]=1
    pupil_courses[199,4]=1
@@ -3522,7 +3522,7 @@ grade[199]=83;
    pupil_courses[199,55]=1
    pupil_courses[199,63]=1
    pupil_courses[199,65]=1
- 
+
 grade[200]=83;
   pupil_courses[200,1]=1
    pupil_courses[200,6]=1
@@ -3540,7 +3540,7 @@ grade[200]=83;
    pupil_courses[200,61]=1
    pupil_courses[200,63]=1
    pupil_courses[200,65]=1
- 
+
 grade[201]=83;
   pupil_courses[201,4]=1
    pupil_courses[201,5]=1
@@ -3558,7 +3558,7 @@ grade[201]=83;
    pupil_courses[201,56]=1
    pupil_courses[201,61]=1
    pupil_courses[201,65]=1
- 
+
 grade[202]=83;
   pupil_courses[202,4]=1
    pupil_courses[202,5]=1
@@ -3576,7 +3576,7 @@ grade[202]=83;
    pupil_courses[202,56]=1
    pupil_courses[202,61]=1
    pupil_courses[202,65]=1
- 
+
 grade[203]=83;
   pupil_courses[203,1]=1
    pupil_courses[203,6]=1
@@ -3594,7 +3594,7 @@ grade[203]=83;
    pupil_courses[203,61]=1
    pupil_courses[203,63]=1
    pupil_courses[203,65]=1
- 
+
 grade[204]=83;
   pupil_courses[204,1]=1
    pupil_courses[204,3]=1
@@ -3613,7 +3613,7 @@ grade[204]=83;
    pupil_courses[204,46]=1
    pupil_courses[204,52]=1
    pupil_courses[204,65]=1
- 
+
 grade[205]=83;
   pupil_courses[205,4]=1
    pupil_courses[205,5]=1
@@ -3630,7 +3630,7 @@ grade[205]=83;
    pupil_courses[205,44]=1
    pupil_courses[205,59]=1
    pupil_courses[205,65]=1
- 
+
 grade[206]=91;
   pupil_courses[206,7]=1
    pupil_courses[206,9]=1
@@ -3647,7 +3647,7 @@ grade[206]=91;
    pupil_courses[206,49]=1
    pupil_courses[206,52]=1
    pupil_courses[206,55]=1
- 
+
 grade[207]=91;
   pupil_courses[207,7]=1
    pupil_courses[207,9]=1
@@ -3664,7 +3664,7 @@ grade[207]=91;
    pupil_courses[207,49]=1
    pupil_courses[207,52]=1
    pupil_courses[207,55]=1
- 
+
 grade[208]=91;
   pupil_courses[208,1]=1
    pupil_courses[208,2]=1
@@ -3681,7 +3681,7 @@ grade[208]=91;
    pupil_courses[208,45]=1
    pupil_courses[208,52]=1
    pupil_courses[208,55]=1
- 
+
 grade[209]=91;
   pupil_courses[209,1]=1
    pupil_courses[209,6]=1
@@ -3698,7 +3698,7 @@ grade[209]=91;
    pupil_courses[209,44]=1
    pupil_courses[209,52]=1
    pupil_courses[209,59]=1
- 
+
 grade[210]=91;
   pupil_courses[210,1]=1
    pupil_courses[210,2]=1
@@ -3715,7 +3715,7 @@ grade[210]=91;
    pupil_courses[210,52]=1
    pupil_courses[210,55]=1
    pupil_courses[210,56]=1
- 
+
 grade[211]=91;
   pupil_courses[211,1]=1
    pupil_courses[211,2]=1
@@ -3732,7 +3732,7 @@ grade[211]=91;
    pupil_courses[211,45]=1
    pupil_courses[211,52]=1
    pupil_courses[211,55]=1
- 
+
 grade[212]=91;
   pupil_courses[212,1]=1
    pupil_courses[212,2]=1
@@ -3749,7 +3749,7 @@ grade[212]=91;
    pupil_courses[212,45]=1
    pupil_courses[212,52]=1
    pupil_courses[212,55]=1
- 
+
 grade[213]=91;
   pupil_courses[213,2]=1
    pupil_courses[213,7]=1
@@ -3766,7 +3766,7 @@ grade[213]=91;
    pupil_courses[213,52]=1
    pupil_courses[213,56]=1
    pupil_courses[213,61]=1
- 
+
 grade[214]=91;
   pupil_courses[214,1]=1
    pupil_courses[214,7]=1
@@ -3783,7 +3783,7 @@ grade[214]=91;
    pupil_courses[214,49]=1
    pupil_courses[214,52]=1
    pupil_courses[214,55]=1
- 
+
 grade[215]=91;
   pupil_courses[215,1]=1
    pupil_courses[215,6]=1
@@ -3801,7 +3801,7 @@ grade[215]=91;
    pupil_courses[215,49]=1
    pupil_courses[215,55]=1
    pupil_courses[215,56]=1
- 
+
 grade[216]=91;
   pupil_courses[216,2]=1
    pupil_courses[216,7]=1
@@ -3818,7 +3818,7 @@ grade[216]=91;
    pupil_courses[216,56]=1
    pupil_courses[216,61]=1
    pupil_courses[216,62]=1
- 
+
 grade[217]=91;
   pupil_courses[217,6]=1
    pupil_courses[217,7]=1
@@ -3835,7 +3835,7 @@ grade[217]=91;
    pupil_courses[217,52]=1
    pupil_courses[217,55]=1
    pupil_courses[217,61]=1
- 
+
 grade[218]=91;
   pupil_courses[218,2]=1
    pupil_courses[218,7]=1
@@ -3852,7 +3852,7 @@ grade[218]=91;
    pupil_courses[218,56]=1
    pupil_courses[218,61]=1
    pupil_courses[218,62]=1
- 
+
 grade[219]=91;
   pupil_courses[219,1]=1
    pupil_courses[219,2]=1
@@ -3869,7 +3869,7 @@ grade[219]=91;
    pupil_courses[219,52]=1
    pupil_courses[219,56]=1
    pupil_courses[219,61]=1
- 
+
 grade[220]=91;
   pupil_courses[220,1]=1
    pupil_courses[220,6]=1
@@ -3886,7 +3886,7 @@ grade[220]=91;
    pupil_courses[220,52]=1
    pupil_courses[220,59]=1
    pupil_courses[220,60]=1
- 
+
 grade[221]=91;
   pupil_courses[221,1]=1
    pupil_courses[221,6]=1
@@ -3903,7 +3903,7 @@ grade[221]=91;
    pupil_courses[221,52]=1
    pupil_courses[221,59]=1
    pupil_courses[221,60]=1
- 
+
 grade[222]=91;
   pupil_courses[222,1]=1
    pupil_courses[222,6]=1
@@ -3920,7 +3920,7 @@ grade[222]=91;
    pupil_courses[222,52]=1
    pupil_courses[222,59]=1
    pupil_courses[222,60]=1
- 
+
 grade[223]=91;
   pupil_courses[223,1]=1
    pupil_courses[223,2]=1
@@ -3938,7 +3938,7 @@ grade[223]=91;
    pupil_courses[223,49]=1
    pupil_courses[223,52]=1
    pupil_courses[223,55]=1
- 
+
 grade[224]=91;
   pupil_courses[224,1]=1
    pupil_courses[224,6]=1
@@ -3955,7 +3955,7 @@ grade[224]=91;
    pupil_courses[224,52]=1
    pupil_courses[224,56]=1
    pupil_courses[224,61]=1
- 
+
 grade[225]=92;
   pupil_courses[225,1]=1
    pupil_courses[225,3]=1
@@ -3972,7 +3972,7 @@ grade[225]=92;
    pupil_courses[225,56]=1
    pupil_courses[225,59]=1
    pupil_courses[225,60]=1
- 
+
 grade[226]=92;
   pupil_courses[226,1]=1
    pupil_courses[226,6]=1
@@ -3989,7 +3989,7 @@ grade[226]=92;
    pupil_courses[226,44]=1
    pupil_courses[226,55]=1
    pupil_courses[226,59]=1
- 
+
 grade[227]=92;
   pupil_courses[227,1]=1
    pupil_courses[227,6]=1
@@ -4006,7 +4006,7 @@ grade[227]=92;
    pupil_courses[227,44]=1
    pupil_courses[227,55]=1
    pupil_courses[227,59]=1
- 
+
 grade[228]=92;
   pupil_courses[228,1]=1
    pupil_courses[228,3]=1
@@ -4023,7 +4023,7 @@ grade[228]=92;
    pupil_courses[228,55]=1
    pupil_courses[228,56]=1
    pupil_courses[228,59]=1
- 
+
 grade[229]=92;
   pupil_courses[229,1]=1
    pupil_courses[229,3]=1
@@ -4040,7 +4040,7 @@ grade[229]=92;
    pupil_courses[229,55]=1
    pupil_courses[229,56]=1
    pupil_courses[229,59]=1
- 
+
 grade[230]=92;
   pupil_courses[230,6]=1
    pupil_courses[230,7]=1
@@ -4056,7 +4056,7 @@ grade[230]=92;
    pupil_courses[230,49]=1
    pupil_courses[230,55]=1
    pupil_courses[230,59]=1
- 
+
 grade[231]=92;
   pupil_courses[231,1]=1
    pupil_courses[231,6]=1
@@ -4073,7 +4073,7 @@ grade[231]=92;
    pupil_courses[231,52]=1
    pupil_courses[231,56]=1
    pupil_courses[231,60]=1
- 
+
 grade[232]=92;
   pupil_courses[232,3]=1
    pupil_courses[232,6]=1
@@ -4090,7 +4090,7 @@ grade[232]=92;
    pupil_courses[232,52]=1
    pupil_courses[232,56]=1
    pupil_courses[232,59]=1
- 
+
 grade[233]=92;
   pupil_courses[233,1]=1
    pupil_courses[233,2]=1
@@ -4107,7 +4107,7 @@ grade[233]=92;
    pupil_courses[233,56]=1
    pupil_courses[233,59]=1
    pupil_courses[233,61]=1
- 
+
 grade[234]=92;
   pupil_courses[234,1]=1
    pupil_courses[234,3]=1
@@ -4123,7 +4123,7 @@ grade[234]=92;
    pupil_courses[234,56]=1
    pupil_courses[234,60]=1
    pupil_courses[234,61]=1
- 
+
 grade[235]=92;
   pupil_courses[235,1]=1
    pupil_courses[235,6]=1
@@ -4140,7 +4140,7 @@ grade[235]=92;
    pupil_courses[235,52]=1
    pupil_courses[235,56]=1
    pupil_courses[235,60]=1
- 
+
 grade[236]=92;
   pupil_courses[236,2]=1
    pupil_courses[236,6]=1
@@ -4157,7 +4157,7 @@ grade[236]=92;
    pupil_courses[236,55]=1
    pupil_courses[236,59]=1
    pupil_courses[236,60]=1
- 
+
 grade[237]=92;
   pupil_courses[237,3]=1
    pupil_courses[237,6]=1
@@ -4174,7 +4174,7 @@ grade[237]=92;
    pupil_courses[237,52]=1
    pupil_courses[237,56]=1
    pupil_courses[237,59]=1
- 
+
 grade[238]=92;
   pupil_courses[238,6]=1
    pupil_courses[238,7]=1
@@ -4192,7 +4192,7 @@ grade[238]=92;
    pupil_courses[238,56]=1
    pupil_courses[238,59]=1
    pupil_courses[238,60]=1
- 
+
 grade[239]=92;
   pupil_courses[239,2]=1
    pupil_courses[239,3]=1
@@ -4209,7 +4209,7 @@ grade[239]=92;
    pupil_courses[239,33]=1
    pupil_courses[239,44]=1
    pupil_courses[239,59]=1
- 
+
 grade[240]=92;
   pupil_courses[240,2]=1
    pupil_courses[240,11]=1
@@ -4226,7 +4226,7 @@ grade[240]=92;
    pupil_courses[240,55]=1
    pupil_courses[240,59]=1
    pupil_courses[240,62]=1
- 
+
 grade[241]=92;
   pupil_courses[241,2]=1
    pupil_courses[241,11]=1
@@ -4243,7 +4243,7 @@ grade[241]=92;
    pupil_courses[241,55]=1
    pupil_courses[241,59]=1
    pupil_courses[241,62]=1
- 
+
 grade[242]=92;
   pupil_courses[242,1]=1
    pupil_courses[242,3]=1
@@ -4260,7 +4260,7 @@ grade[242]=92;
    pupil_courses[242,52]=1
    pupil_courses[242,55]=1
    pupil_courses[242,56]=1
- 
+
 grade[243]=92;
   pupil_courses[243,1]=1
    pupil_courses[243,6]=1
@@ -4277,7 +4277,7 @@ grade[243]=92;
    pupil_courses[243,55]=1
    pupil_courses[243,56]=1
    pupil_courses[243,59]=1
- 
+
 grade[244]=93;
   pupil_courses[244,1]=1
    pupil_courses[244,2]=1
@@ -4294,7 +4294,7 @@ grade[244]=93;
    pupil_courses[244,59]=1
    pupil_courses[244,60]=1
    pupil_courses[244,62]=1
- 
+
 grade[245]=93;
   pupil_courses[245,1]=1
    pupil_courses[245,2]=1
@@ -4311,7 +4311,7 @@ grade[245]=93;
    pupil_courses[245,59]=1
    pupil_courses[245,60]=1
    pupil_courses[245,62]=1
- 
+
 grade[246]=93;
   pupil_courses[246,1]=1
    pupil_courses[246,2]=1
@@ -4328,7 +4328,7 @@ grade[246]=93;
    pupil_courses[246,52]=1
    pupil_courses[246,59]=1
    pupil_courses[246,60]=1
- 
+
 grade[247]=93;
   pupil_courses[247,1]=1
    pupil_courses[247,11]=1
@@ -4345,7 +4345,7 @@ grade[247]=93;
    pupil_courses[247,52]=1
    pupil_courses[247,55]=1
    pupil_courses[247,60]=1
- 
+
 grade[248]=93;
   pupil_courses[248,1]=1
    pupil_courses[248,2]=1
@@ -4362,7 +4362,7 @@ grade[248]=93;
    pupil_courses[248,52]=1
    pupil_courses[248,56]=1
    pupil_courses[248,61]=1
- 
+
 grade[249]=93;
   pupil_courses[249,1]=1
    pupil_courses[249,3]=1
@@ -4379,7 +4379,7 @@ grade[249]=93;
    pupil_courses[249,55]=1
    pupil_courses[249,59]=1
    pupil_courses[249,60]=1
- 
+
 grade[250]=93;
   pupil_courses[250,1]=1
    pupil_courses[250,7]=1
@@ -4396,7 +4396,7 @@ grade[250]=93;
    pupil_courses[250,55]=1
    pupil_courses[250,56]=1
    pupil_courses[250,61]=1
- 
+
 grade[251]=93;
   pupil_courses[251,1]=1
    pupil_courses[251,2]=1
@@ -4413,7 +4413,7 @@ grade[251]=93;
    pupil_courses[251,55]=1
    pupil_courses[251,56]=1
    pupil_courses[251,59]=1
- 
+
 grade[252]=93;
   pupil_courses[252,1]=1
    pupil_courses[252,2]=1
@@ -4430,7 +4430,7 @@ grade[252]=93;
    pupil_courses[252,59]=1
    pupil_courses[252,60]=1
    pupil_courses[252,62]=1
- 
+
 grade[253]=93;
   pupil_courses[253,1]=1
    pupil_courses[253,2]=1
@@ -4447,7 +4447,7 @@ grade[253]=93;
    pupil_courses[253,56]=1
    pupil_courses[253,60]=1
    pupil_courses[253,61]=1
- 
+
 grade[254]=93;
   pupil_courses[254,1]=1
    pupil_courses[254,2]=1
@@ -4464,7 +4464,7 @@ grade[254]=93;
    pupil_courses[254,45]=1
    pupil_courses[254,52]=1
    pupil_courses[254,55]=1
- 
+
 grade[255]=93;
   pupil_courses[255,1]=1
    pupil_courses[255,2]=1
@@ -4481,7 +4481,7 @@ grade[255]=93;
    pupil_courses[255,45]=1
    pupil_courses[255,52]=1
    pupil_courses[255,55]=1
- 
+
 grade[256]=93;
   pupil_courses[256,1]=1
    pupil_courses[256,7]=1
@@ -4498,7 +4498,7 @@ grade[256]=93;
    pupil_courses[256,45]=1
    pupil_courses[256,55]=1
    pupil_courses[256,61]=1
- 
+
 grade[257]=93;
   pupil_courses[257,1]=1
    pupil_courses[257,7]=1
@@ -4515,7 +4515,7 @@ grade[257]=93;
    pupil_courses[257,45]=1
    pupil_courses[257,55]=1
    pupil_courses[257,61]=1
- 
+
 grade[258]=93;
   pupil_courses[258,1]=1
    pupil_courses[258,6]=1
@@ -4532,7 +4532,7 @@ grade[258]=93;
    pupil_courses[258,44]=1
    pupil_courses[258,52]=1
    pupil_courses[258,55]=1
- 
+
 grade[259]=93;
   pupil_courses[259,1]=1
    pupil_courses[259,2]=1
@@ -4549,7 +4549,7 @@ grade[259]=93;
    pupil_courses[259,45]=1
    pupil_courses[259,52]=1
    pupil_courses[259,55]=1
- 
+
 grade[260]=93;
   pupil_courses[260,1]=1
    pupil_courses[260,3]=1
@@ -4566,7 +4566,7 @@ grade[260]=93;
    pupil_courses[260,55]=1
    pupil_courses[260,56]=1
    pupil_courses[260,60]=1
- 
+
 grade[261]=93;
   pupil_courses[261,1]=1
    pupil_courses[261,3]=1
@@ -4583,7 +4583,7 @@ grade[261]=93;
    pupil_courses[261,49]=1
    pupil_courses[261,52]=1
    pupil_courses[261,55]=1
- 
+
 grade[262]=93;
   pupil_courses[262,1]=1
    pupil_courses[262,3]=1
@@ -4600,7 +4600,7 @@ grade[262]=93;
    pupil_courses[262,49]=1
    pupil_courses[262,55]=1
    pupil_courses[262,60]=1
- 
+
 grade[263]=93;
   pupil_courses[263,1]=1
    pupil_courses[263,6]=1
@@ -4617,7 +4617,7 @@ grade[263]=93;
    pupil_courses[263,49]=1
    pupil_courses[263,52]=1
    pupil_courses[263,55]=1
- 
+
 grade[264]=93;
   pupil_courses[264,1]=1
    pupil_courses[264,2]=1
@@ -4634,7 +4634,7 @@ grade[264]=93;
    pupil_courses[264,45]=1
    pupil_courses[264,52]=1
    pupil_courses[264,55]=1
- 
+
 grade[265]=93;
   pupil_courses[265,1]=1
    pupil_courses[265,2]=1
@@ -4651,7 +4651,7 @@ grade[265]=93;
    pupil_courses[265,52]=1
    pupil_courses[265,59]=1
    pupil_courses[265,60]=1
- 
+
 grade[266]=93;
   pupil_courses[266,1]=1
    pupil_courses[266,2]=1
@@ -4668,7 +4668,7 @@ grade[266]=93;
    pupil_courses[266,44]=1
    pupil_courses[266,52]=1
    pupil_courses[266,60]=1
- 
+
 grade[267]=71;
   pupil_courses[267,1]=1
    pupil_courses[267,6]=1
@@ -4685,7 +4685,7 @@ grade[267]=71;
    pupil_courses[267,50]=1
    pupil_courses[267,52]=1
    pupil_courses[267,63]=1
- 
+
 grade[268]=71;
   pupil_courses[268,1]=1
    pupil_courses[268,5]=1
@@ -4702,7 +4702,7 @@ grade[268]=71;
    pupil_courses[268,40]=1
    pupil_courses[268,51]=1
    pupil_courses[268,63]=1
- 
+
 grade[269]=83;
   pupil_courses[269,1]=1
    pupil_courses[269,2]=1
@@ -4720,7 +4720,7 @@ grade[269]=83;
    pupil_courses[269,55]=1
    pupil_courses[269,63]=1
    pupil_courses[269,65]=1
- 
+
 grade[270]=83;
   pupil_courses[270,1]=1
    pupil_courses[270,4]=1
@@ -4738,7 +4738,7 @@ grade[270]=83;
    pupil_courses[270,55]=1
    pupil_courses[270,59]=1
    pupil_courses[270,65]=1
- 
+
 grade[271]=83;
   pupil_courses[271,1]=1
    pupil_courses[271,4]=1
@@ -4755,7 +4755,7 @@ grade[271]=83;
    pupil_courses[271,43]=1
    pupil_courses[271,55]=1
    pupil_courses[271,65]=1
- 
+
 grade[272]=83;
   pupil_courses[272,1]=1
    pupil_courses[272,4]=1
@@ -4774,7 +4774,7 @@ grade[272]=83;
    pupil_courses[272,59]=1
    pupil_courses[272,63]=1
    pupil_courses[272,65]=1
- 
+
 grade[273]=73;
   pupil_courses[273,1]=1
    pupil_courses[273,2]=1
@@ -4791,7 +4791,7 @@ grade[273]=73;
    pupil_courses[273,40]=1
    pupil_courses[273,43]=1
    pupil_courses[273,63]=1
- 
+
 grade[274]=61;
   pupil_courses[274,2]=1
    pupil_courses[274,8]=1
@@ -4809,7 +4809,7 @@ grade[274]=61;
    pupil_courses[274,57]=1
    pupil_courses[274,63]=1
    pupil_courses[274,66]=1
- 
+
 grade[275]=93;
   pupil_courses[275,1]=1
    pupil_courses[275,6]=1
@@ -4826,7 +4826,7 @@ grade[275]=93;
    pupil_courses[275,45]=1
    pupil_courses[275,55]=1
    pupil_courses[275,59]=1
- 
+
 grade[276]=92;
   pupil_courses[276,1]=1
    pupil_courses[276,2]=1
@@ -4843,7 +4843,7 @@ grade[276]=92;
    pupil_courses[276,52]=1
    pupil_courses[276,56]=1
    pupil_courses[276,61]=1
- 
+
 grade[277]=91;
   pupil_courses[277,7]=1
    pupil_courses[277,9]=1
@@ -4860,7 +4860,7 @@ grade[277]=91;
    pupil_courses[277,55]=1
    pupil_courses[277,60]=1
    pupil_courses[277,61]=1
- 
+
 grade[278]=83;
   pupil_courses[278,1]=1
    pupil_courses[278,2]=1
@@ -4878,4 +4878,3 @@ grade[278]=83;
    pupil_courses[278,45]=1
    pupil_courses[278,55]=1
    pupil_courses[278,65]=1
- 
