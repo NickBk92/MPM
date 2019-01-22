@@ -11,10 +11,6 @@ using Printf
 include("courseLimits.jl")
 include("pupils.jl")
 include("teachers.jl")
-<<<<<<< HEAD
-
-=======
->>>>>>> 7574ba7f9137eab92a71e5e1b712fb7653fc496b
 #************************************************************************
 #DATA
 
@@ -28,20 +24,17 @@ P = size(pupil_courses,1)
 
 
 #Model
-<<<<<<< HEAD
 ass1 = Model(solver=GurobiSolver())
 @variable(ass1,x[d=1:D,h=1:H,c=1:C,p=1:P], Bin)
+@variable(ass1,y[d=1:D,h=1:H,c=1:C] >= 0, Int)
 
-@objective(ass1,Max,sum(sum(x[d,h,c,p] for d=1:D,h=1:H)*pupil_courses[p,c] for c=1:C,p=1:P))
+@objective(ass1,Max,sum(x[d,h,c,p]*pupil_courses[p,c] for d=1:D,h=1:H,c=1:C,p=1:P))
 
 @constraint(ass1,maxCoursesPerPupil[p=1:P],sum(x[d,h,c,p] for d=1:D,h=1:H,c=1:C)<=12)
 #Lower bound for each class
-@constraint(ass1,lowerCourseLimit[d=1:D,h=1:H,c=1:C],sum(x[d,h,c,p] for p=1:P)>= course_bounds[c,1])
-
-@constraint(ass1,lowerCourseLimit[c=1:C],sum(x[d,h,c,p] for p=1:P,d=1:D,h=1:H) >= course_bounds[c,1])
-
+@constraint(ass1,lowerCourseLimit[d=1:D,h=1:H,c=1:C],sum(x[d,h,c,p] for p=1:P)>= course_bounds[c,1]*y[d,h,c])
 #Upper bound for each class
-@constraint(ass1,upperCourseLimit[d=1:D,h=1:H,c=1:C],sum(x[d,h,c,p] for p=1:P)<= course_bounds[c,2])
+@constraint(ass1,upperCourseLimit[d=1:D,h=1:H,c=1:C],sum(x[d,h,c,p] for p=1:P)<= course_bounds[c,2]*y[d,h,c])
 #Every puppil can take  a course only once
 @constraint(ass1, onlyOnce[c=1:C,p=1:P],sum(x[d,h,c,p] for d=1:D,h=1:H)<=1)
 #Every pupil can take at most one course each timeslot
@@ -49,9 +42,9 @@ ass1 = Model(solver=GurobiSolver())
 
 
 
-solve(ass1)
-println(getobjectivevalue(ass1))
-=======
+#solve(ass1)
+#println(getobjectivevalue(ass1))
+
 ass2 = Model(solver=GurobiSolver())
 @variable(ass2,x[d=1:D,h=1:H,c=1:C,p=1:P], Bin)
 @variable(ass2,y[d=1:D,h=1:H,c=1:C] >= 0, Int)
@@ -94,4 +87,3 @@ for c in 1:C
     a=sum(getvalue(y[d,h,c]) for d in 1:D,h in 1:H )
     println("course $(c)"," will be taught ",a," times!\n")
 end
->>>>>>> 7574ba7f9137eab92a71e5e1b712fb7653fc496b
