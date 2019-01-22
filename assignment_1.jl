@@ -26,7 +26,7 @@ P = size(pupil_courses,1)
 #Model
 ass1 = Model(solver=GurobiSolver())
 @variable(ass1,x[d=1:D,h=1:H,c=1:C,p=1:P], Bin)
-@variable(ass1,y[d=1:D,h=1:H,c=1:C], Int)
+@variable(ass1,y[d=1:D,h=1:H,c=1:C] >= 0, Int)
 
 @objective(ass1,Max,sum(x[d,h,c,p]*pupil_courses[p,c] for d=1:D,h=1:H,c=1:C,p=1:P))
 
@@ -47,16 +47,4 @@ if solution == :Optimal
     println("RESULTS:")
     println("$(getobjectivevalue(ass1))")
 
-end
-for d in 1:D
-    for h in 1:H
-        for c in 1:C
-
-            println("$(getvalue(y[d,h,c]))")
-        end
-    end
-end
-for c in 1:C
-    a=sum(getvalue(y[d,h,c]) for d in 1:D,h in 1:H )
-    println("course ",c," will be taught ",a," times!\n")
 end

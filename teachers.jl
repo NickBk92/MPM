@@ -226,3 +226,4 @@ teacher_cap=[
                 5
 ]
 #print
+T=66
