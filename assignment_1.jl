@@ -26,14 +26,15 @@ P = size(pupil_courses,1)
 #Model
 ass1 = Model(solver=GurobiSolver())
 @variable(ass1,x[d=1:D,h=1:H,c=1:C,p=1:P], Bin)
+@variable(ass1,y[d=1:D,h=1:H,c=1:C], Int)
 
-@objective(ass1,Max,sum(sum(x[d,h,c,p] for d=1:D,h=1:H)*pupil_courses[p,c] for c=1:C,p=1:P))
+@objective(ass1,Max,sum(x[d,h,c,p]*pupil_courses[p,c] for d=1:D,h=1:H,c=1:C,p=1:P)/P)
 
 @constraint(ass1,maxCoursesPerPupil[p=1:P],sum(x[d,h,c,p] for d=1:D,h=1:H,c=1:C)<=12)
 #Lower bound for each class
-@constraint(ass1,lowerCourseLimit[d=1:D,h=1:H,c=1:C],sum(x[d,h,c,p] for p=1:P)<= course_bounds[c,1])
+@constraint(ass1,lowerCourseLimit[d=1:D,h=1:H,c=1:C],sum(x[d,h,c,p]*y[d,h,c] for p=1:P)>= course_bounds[c,1])
 #Upper bound for each class
-@constraint(ass1,upperCourseLimit[d=1:D,h=1:H,c=1:C],sum(x[d,h,c,p] for p=1:P)<= course_bounds[c,2])
+@constraint(ass1,upperCourseLimit[d=1:D,h=1:H,c=1:C],sum(x[d,h,c,p]*y[d,h,c] for p=1:P)<= course_bounds[c,2])
 #Every puppil can take  a course only once
 @constraint(ass1, onlyOnce[c=1:C,p=1:P],sum(x[d,h,c,p] for d=1:D,h=1:H)<=1)
 #Every pupil can take at most one course each timeslot
@@ -41,5 +42,9 @@ ass1 = Model(solver=GurobiSolver())
 
 
 
-solve(ass1)
-println(getobjectivevalue(ass1))
+solution = solve(ass1)
+if solution == :Optimal
+    println("RESULTS:")
+    println("$(getobjectivevalue(ass1))")
+
+end
