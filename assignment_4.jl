@@ -1,8 +1,3 @@
-for p=1:P
-    if grade[p]==61
-        println(p)
-    end
-end
 
 #************************************************************************
 # Assignment 1, "Mathematical Programming Modelling" (42112)
@@ -36,6 +31,7 @@ ass2 = Model(solver=GurobiSolver(MIPGap=0.1))
 @variable(ass2,y[d=1:D,h=1:H,c=1:C] >= 0, Int)
 @variable(ass2,z[d=1:D,h=1:H,c=1:C,t=1:T],Bin)
 @variable(ass2,s[d=1:D,h=1:H,t=1:T],Bin)
+
 
 @objective(ass2,Max,sum(x[d,h,c,p]*pupil_courses[p,c] for d=1:D,h=1:H,c=1:C,p=1:P))
 
@@ -71,11 +67,15 @@ ass2 = Model(solver=GurobiSolver(MIPGap=0.1))
 sum((h>1 ? z[d,h-1,c,t] : 0) for c=1:C)  +  s[d,h,t] >= sum(z[d,h,c,t] for c=1:C ))
 
 
-@constraint(ass2, sixthgrade_con[d=1:D, h=1:H, c=1:C], sum((grade[p]==61 ? x[d,h,c,p] : 0) for p=1:P) != 1)
 
+@constraint(ass2, grades_con1[d=1:D, h=1:H, c=1:C, p=1:P ],
+            sum((grade[pp]==61 ? x[d,h,c,pp] : 0) for pp=1:P) >= 2 * (grade[p]==61 ? x[d,h,c,p] : 0))
 
+@constraint(ass2, grades_con2[d=1:D, h=1:H, c=1:C, p=1:P ],
+                        sum((grade[pp]==62 ? x[d,h,c,pp] : 0) for pp=1:P) >= 2 * (grade[p]==62 ? x[d,h,c,p] : 0))
 
-
+@constraint(ass2, grades_con3[d=1:D, h=1:H, c=1:C, p=1:P ],
+                                    sum((grade[pp]==63 ? x[d,h,c,pp] : 0) for pp=1:P) >= 2 * (grade[p]==63 ? x[d,h,c,p] : 0))
 solution = solve(ass2)
 if solution == :Optimal
     println("RESULTS:")
