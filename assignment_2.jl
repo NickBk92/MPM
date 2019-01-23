@@ -24,27 +24,6 @@ P = size(pupil_courses,1)
 
 
 #Model
-ass1 = Model(solver=GurobiSolver())
-@variable(ass1,x[d=1:D,h=1:H,c=1:C,p=1:P], Bin)
-@variable(ass1,y[d=1:D,h=1:H,c=1:C] >= 0, Int)
-
-@objective(ass1,Max,sum(x[d,h,c,p]*pupil_courses[p,c] for d=1:D,h=1:H,c=1:C,p=1:P))
-
-@constraint(ass1,maxCoursesPerPupil[p=1:P],sum(x[d,h,c,p] for d=1:D,h=1:H,c=1:C)<=12)
-#Lower bound for each class
-@constraint(ass1,lowerCourseLimit[d=1:D,h=1:H,c=1:C],sum(x[d,h,c,p] for p=1:P)>= course_bounds[c,1]*y[d,h,c])
-#Upper bound for each class
-@constraint(ass1,upperCourseLimit[d=1:D,h=1:H,c=1:C],sum(x[d,h,c,p] for p=1:P)<= course_bounds[c,2]*y[d,h,c])
-#Every puppil can take  a course only once
-@constraint(ass1, onlyOnce[c=1:C,p=1:P],sum(x[d,h,c,p] for d=1:D,h=1:H)<=1)
-#Every pupil can take at most one course each timeslot
-@constraint(ass1, onlyOnePerSlot[d=1:D,h=1:H,p=1:P],sum(x[d,h,c,p] for c=1:C)<=1 )
-
-
-
-#solve(ass1)
-#println(getobjectivevalue(ass1))
-
 ass2 = Model(solver=GurobiSolver())
 @variable(ass2,x[d=1:D,h=1:H,c=1:C,p=1:P], Bin)
 @variable(ass2,y[d=1:D,h=1:H,c=1:C] >= 0, Int)
@@ -63,8 +42,25 @@ ass2 = Model(solver=GurobiSolver())
 @constraint(ass2, onlyOnePerSlot[d=1:D,h=1:H,p=1:P],sum(x[d,h,c,p] for c=1:C)<=1 )
 
 #Assignment 2
-#
-@constraint(ass2, OneperModule[t=1:T], y[d,h,c] == sum(z[d,h,c,t] for d=1:D,h=1:H,c=1:C) )
+#One teacher per module
+@constraint(ass2, OneperModule[t=1:T], sum(z[d,h,c,t] for d=1:D,h=1:H,c=1:C) ==  y[d,h,c] )
+
+
+
+# Each teacher can teach only one class per module
+@constraint(ass2, max_teach_days[t=1:T],
+            sum(z[d,m,t,c] for  d=1:D, h=1:H, c=1:C)
+            <= teacher_day[t,d])
+#Each teacher can teach up to some numer of courses
+@constraint(ass2, max_teach_c[t=1:T], sum(z[d,m,c,t] for d=1:D, m=1:M, c=1:C)
+            <= teacher_capacity[t] )
+#Each teacher can teach specific courses
+@constraint(ass2, specific_courses[d=1:D, m=1:M, t=1:T, c=1:C],
+           z[d,m,c,t]<=teacher_course[t,c]  )
+
+ @constraint(ass2, demand[d=1:D, m=1:M, c=1:C], sum(y[d,m,t,c] for t=1:T) >=
+                        y[d,m,c] )
+
 
 
 
