@@ -18,13 +18,14 @@ D = 4
 H = 3
 C = size(course_bounds,1)
 P = size(pupil_courses,1)
+T = length(teacher_capacity)
 
 
 
 
 
 #Model
-ass2 = Model(solver=GurobiSolver())
+ass2 = Model(solver=GurobiSolver(MIPGap=0.1))
 @variable(ass2,x[d=1:D,h=1:H,c=1:C,p=1:P], Bin)
 @variable(ass2,y[d=1:D,h=1:H,c=1:C] >= 0, Int)
 @variable(ass2,z[d=1:D,h=1:H,c=1:C,t=1:T],Bin)
@@ -42,24 +43,16 @@ ass2 = Model(solver=GurobiSolver())
 @constraint(ass2, onlyOnePerSlot[d=1:D,h=1:H,p=1:P],sum(x[d,h,c,p] for c=1:C)<=1 )
 
 #Assignment 2
-#One teacher per module
-@constraint(ass2, OneperModule[t=1:T], sum(z[d,h,c,t] for d=1:D,h=1:H,c=1:C) ==  y[d,h,c] )
-
-
-
 # Each teacher can teach only one class per module
-@constraint(ass2, max_teach_days[t=1:T],
-            sum(z[d,m,t,c] for  d=1:D, h=1:H, c=1:C)
-            <= teacher_day[t,d])
-#Each teacher can teach up to some numer of courses
-@constraint(ass2, max_teach_c[t=1:T], sum(z[d,m,c,t] for d=1:D, m=1:M, c=1:C)
-            <= teacher_capacity[t] )
-#Each teacher can teach specific courses
-@constraint(ass2, specific_courses[d=1:D, m=1:M, t=1:T, c=1:C],
-           z[d,m,c,t]<=teacher_course[t,c]  )
+@constraint(ass2, max_teach_days[d=1:D, h=1:H, c=1:C], y[d,h,c] ==
+            sum(z[d,h,c,t] for t=1:T ))
 
- @constraint(ass2, demand[d=1:D, m=1:M, c=1:C], sum(y[d,m,t,c] for t=1:T) >=
-                        y[d,m,c] )
+@constraint(ass2, max_teachperday[t=1:T,d=1:D], sum(z[d,h,c,t] for h=1:H,c=1:C)<=teacher_days[t,d]*3)
+#Each teacher has a capacity, of classes he can teach
+@constraint(ass2, teacher_cap_con[t=1:T], sum(z[d,h,c,t] for d=1:D,h=1:H,c=1:C) <=
+                                                            teacher_capacity[t])
+
+@constraint(ass2, courses_constraint[d=1:D, h=1:H, c=1:C, t=1:T], z[d,h,c,t] <= teacher_courses[t,c])                                                                     
 
 
 
@@ -70,16 +63,4 @@ if solution == :Optimal
     println("RESULTS:")
     println("$(getobjectivevalue(ass2))")
 
-end
-for d in 1:D
-    for h in 1:H
-        for c in 1:C
-
-            println("$(getvalue(y[d,h,c]))")
-        end
-    end
-end
-for c in 1:C
-    a=sum(getvalue(y[d,h,c]) for d in 1:D,h in 1:H )
-    println("course $(c)"," will be taught ",a," times!\n")
 end
