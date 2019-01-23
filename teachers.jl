@@ -267,4 +267,3 @@ teacher_days=[
 ]
 
 #print
-T=66
