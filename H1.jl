@@ -32,7 +32,7 @@ H1 = Model(solver=GurobiSolver())
 
 @variable(H1, x[r=1:R,d=1:D,a=1:A], Bin)
 
-@objective(H1, Min, 2*sum(x[r,d,a]*referfee_arena_distances[r,a] for r=1:R,d=1:D,a=1:A))
+@objective(H1, Min, sum(x[r,d,a]*referfee_arena_distances[r,a] for r=1:R,d=1:D,a=1:A))
 
 @constraint(H1,twoRefPerMatch[d=1:D,a=1:A],
     sum(x[r,d,a] for r=1:R) == 2*arenaOccupied[a,d])
@@ -47,13 +47,10 @@ H1 = Model(solver=GurobiSolver())
 solve(H1)
 
 println(getobjectivevalue(H1))
-allo=zeros(M,D,A)
-for m in 1:M
-    for d in 1:D
-        for a in 1:A
-            allo[m,d,a]=match_areana[m,a]*match_time[m,d]
-        end
+
+for r=1:R
+    for p=1:R
+        println(ref_pair[r,p])
+
     end
 end
-
-sum(allo[m,d,a] for m=1:M,d=1:D,a=1:A)
