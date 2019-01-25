@@ -50,4 +50,5 @@ solve(H22a)
 
 println(getobjectivevalue(H22a))
 
+target_pairs = getobjectivevalue(H22a)
 println(sum(getvalue(x[r,m])*referfee_arena_distances[r,a]*match_areana[m,a] for r=1:R,m=1:M,a=1:A))
