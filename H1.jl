@@ -33,24 +33,17 @@ H1 = Model(solver=GurobiSolver())
 @variable(H1, x[r=1:R,d=1:D,a=1:A], Bin)
 
 @objective(H1, Min, sum(x[r,d,a]*referfee_arena_distances[r,a] for r=1:R,d=1:D,a=1:A))
-
+#Exactly two referees per match
 @constraint(H1,twoRefPerMatch[d=1:D,a=1:A],
     sum(x[r,d,a] for r=1:R) == 2*arenaOccupied[a,d])
-
+#Each referee can officiate at most 1 match per day.
 @constraint(H1, atMostOneMatchPerDay[r=1:R,d=1:D],
     sum(x[r,d,a] for a=1:A) <= 1)
 
-
+#Referees cannot officiate the days that they are not availalbe
 @constraint(H1, refAvailability[r=1:R,d=1:D],
     sum(x[r,d,a] for a=1:A) <= 1-ref_not_available[r,d])
 
 solve(H1)
 
 println(getobjectivevalue(H1))
-
-for r=1:R
-    for p=1:R
-        println(ref_pair[r,p])
-
-    end
-end
