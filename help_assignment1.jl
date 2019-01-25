@@ -80,3 +80,11 @@ for p=1:P
         println(p)
     end
 end
+
+for p=12
+    for c=1:C
+        if pupil_courses[12,c]==1
+            println(c)
+        end
+    end
+end
